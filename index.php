@@ -1,2 +1,5 @@
-<?
-echo "<h1>Olá Mundo</h1>"
+<?php
+$nome = 'gustavo'
+
+ echo $nome;
+?>
